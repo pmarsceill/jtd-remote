@@ -2,3 +2,7 @@ title: "Cloud factory"
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
 search_enabled: yes
+include:
+ - _pages/_conferences
+ - _pages/_monitoring
+ - _pages/_performance_optimization
