@@ -3,11 +3,7 @@ remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
 search_enabled: yes
 
-include: ["_pages/_conferences/","_pages/_monitoring/","_pages/_performance_optimization/"]
-
-exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
-, "docs/tests/"
-]
+exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile", "docs/tests/"]
 
 # Sort order for navigation links
 # nav_sort: case_insensitive # default, equivalent to nil
