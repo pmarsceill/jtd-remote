@@ -3,7 +3,7 @@ title: Performance Optimization
 has_children: true
 ---
 
-Performance Optimization
+performance optimization
 {: .label .label-green }
 
 # Performance Optimization

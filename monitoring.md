@@ -3,7 +3,7 @@ title: Monitoring
 has_children: true
 ---
 
-Monitoring
+monitoring
 {: .label .label-purple }
 
 # Monitoring

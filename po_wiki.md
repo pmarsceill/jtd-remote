@@ -5,7 +5,7 @@ has_children: true
 nav_order: 1
 ---
 
-Performance Optimization
+performance optimization
 {: .label .label-green }
 
 # Optimizing Performance for Cloud Applications
